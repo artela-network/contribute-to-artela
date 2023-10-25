@@ -19,7 +19,7 @@ This repository serves as a resource for builders interested in contributing to 
 
 ## **How to Contribute**
 
-This project follows the [all-contributors](https://allcontributors.org/docs/en/overview) specification. Please read [Code of Conduct](https://github.com/artela-network/docs/contribute-to-artela/code-of-conduct). On our [builder page](https://developers.artela.network/). you’ll find a number of ways to contribute. Contributions of any kind are welcome!
+This project follows the [all-contributors](https://allcontributors.org/docs/en/overview) specification. Please read [Code of Conduct](https://github.com/artela-network/contribute-to-artela/code-of-conduct.md). On our [builder page](https://developers.artela.network/). you’ll find a number of ways to contribute. Contributions of any kind are welcome!
 
 ### [1. Submit an issue](https://github.com/artela-network/contribute-to-artela#1-submit-an-issue)
 
