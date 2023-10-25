@@ -1,7 +1,7 @@
 name: "Propose a new Aspect usecase"
 description: "Contribute your new idea of Aspect usecase, and illustrate best practices on Artela."
 title: "New Aspect Example: "
-labels: ["usecase :idea:"]
+labels: ["usecase"]
 body:
   - type: input
     id: aspect_name
