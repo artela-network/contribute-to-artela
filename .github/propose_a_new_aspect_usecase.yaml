@@ -1,0 +1,37 @@
+name: "Propose a new Aspect usecase"
+description: "Contribute your new idea of Aspect usecase, and illustrate best practices on Artela."
+title: "New Aspect Example: "
+labels: ["usecase :idea:"]
+body:
+  - type: input
+    id: aspect_name
+    attributes:
+      label: "Name of your aspect usecase"
+      placeholder: "Example: Runtime Protection Aspect"
+    validations:
+      required: true
+  - type: textarea
+    id: abstract_abstract
+    attributes:
+      label: "Project abstract"
+      description: "Abstract description of the Aspect usercase you're proposing"
+    validations:
+      required: true
+  - type: textarea
+    id: aspect_specification
+    attributes:
+      label: "Specification"
+      description: "Specification, pictures and any other resources that are useful for describing this usecase"
+    validations:
+      required: true
+  - type: checkboxes
+    id: bug_report_work_on
+    attributes:
+      label: Would you like to work on this usecase implementation?
+      options:
+        - label: "Yes"
+          required: false
+        - label: "No"
+          required: false
+    validations:
+      required: true
