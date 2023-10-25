@@ -19,7 +19,7 @@ This repository serves as a resource for builders interested in contributing to 
 
 ## **How to Contribute**
 
-This project follows the [all-contributors](https://allcontributors.org/docs/en/overview) specification. Please read [Code of Conduct](https://github.com/artela-network/contribute-to-artela/code-of-conduct.md). On our [builder page](https://developers.artela.network/). you’ll find a number of ways to contribute. Contributions of any kind are welcome!
+This project follows the [all-contributors](https://allcontributors.org/docs/en/overview) specification. Please read [Code of Conduct](https://github.com/artela-network/contribute-to-artela/blob/main/docs/code-of-conduct). On our [builder page](https://developers.artela.network/). you’ll find a number of ways to contribute. Contributions of any kind are welcome!
 
 ### [1. Submit an issue](https://github.com/artela-network/contribute-to-artela#1-submit-an-issue)
 
@@ -32,7 +32,7 @@ To get involved in an existing issue, you can:
 
 - Comment on the issue (if you'd like to be assigned to it). This allows [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-commenters/).
 
-More information on the issue creation process, and expectations around creating issues can be [found here](https://github.com/artela-network/contribute-to-artela/docs/github-issue-triage-process.md).
+More information on the issue creation process, and expectations around creating issues can be [found here](https://github.com/artela-network/contribute-to-artela/blob/main/docs/github-issue-triage-process.md).
 
 ### [2. Make a PR](https://github.com/artela-network/contribute-to-artela#2-make-a-pr)
 
