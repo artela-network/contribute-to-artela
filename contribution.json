@@ -1,7 +1,7 @@
 [
     {
-      "contribution-title": "Add a automation usecase to Aspect examples",
-      "project-repo": "https://github.com/artela-network/example",
-      "contributors": ["xxx"]
+      "contribution-title": "Docker Automation Script for Node Deployment",
+      "project-repo": "https://github.com/artela-network/artela",
+      "contributors": ["michaels1473"]
     }
   ]

@@ -1,0 +1,31 @@
+---
+version: '3.9'
+services:
+  node:
+    image: svetekllc/artela:v0.4.6-beta-node
+    labels:
+      network: testnet
+    env_file:
+      - node.env
+    ports:
+      - '24656:24656'
+      - '24660:24660'
+    volumes:
+      - /opt/nvme0n1/artela:/root/.artelad
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "1"
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: '8gb'
+    networks:
+      - artela
+    restart: unless-stopped
+
+networks:
+  artela:
+    name: artela
