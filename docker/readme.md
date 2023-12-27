@@ -1,7 +1,7 @@
 ## What is Docker Automation Script for Node Deployment
-**build.sh** is a meticulously crafted script designed with a single purpose: to streamline and automate the intricate process of Docker image creation. Serving as the linchpin in your containerization workflow, it simplifies what can otherwise be a complex endeavor — constructing Docker images from source code and configurations becomes effortless.
+**build.sh** is a crafted script designed with a single purpose: to streamline and automate the intricate process of Docker image creation. Serving as the linchpin in your containerization workflow, it simplifies what can otherwise be a complex endeavor — constructing Docker images from source code and configurations becomes effortless.
 
-**run_node.sh** is a versatile gem. Tailored specifically to ease the deployment and operation of validator and provider nodes, this script is your trusted ally. Whether you’re engaged in a proof-of-stake network as a validator or managing vital infrastructure as a node operator, ‘run_node.sh’ simplifies your tasks and enhances your efficiency.
+**run_node.sh** tailored specifically to ease the deployment and operation of validator and provider nodes, this script is your trusted ally. Whether you’re engaged in a proof-of-stake network as a validator or managing vital infrastructure as a node operator, ‘run_node.sh’ simplifies your tasks and enhances your efficiency.
 
 At the heart of Docker’s image-building process lies the Dockerfile, a plain-text configuration file. It serves as your step-by-step guide for creating Docker images that encapsulate all the essentials for running software. From application code to runtime environment, dependencies, and configuration files, the Dockerfile is your blueprint for success.
 
