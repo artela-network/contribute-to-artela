@@ -1,7 +1,47 @@
 [
     {
-      "contribution-title": "Add a automation usecase to Aspect examples",
-      "project-repo": "https://github.com/artela-network/example",
-      "contributors": ["xxx"]
+        "contribution-title": "Add a automation usecase to Aspect examples",
+        "project-repo": "https://github.com/artela-network/example",
+        "contributors": ["xxx"]
+    },
+    {
+        "contribution-title": "RPCs",
+        "contribution-link": "https://rpc.artela.testnet.dteam.tech",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "APIs",
+        "contribution-link": "https://api.artela.testnet.dteam.tech",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "GRPCs",
+        "contribution-link": "grpc.artela.testnet.dteam.tech:33090",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "EVM Endpoints / JSON RPCs",
+        "contribution-link": "https://evm.artela.testnet.dteam.tech:443",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "Explorers",
+        "contribution-link": "https://explorer.testnet.dteam.tech/artela",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "Snapshot",
+        "contribution-link": "https://dteam.tech/services/testnet/snapshot/artela",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "State Sync",
+        "contribution-link": "https://dteam.tech/services/testnet/state-sync/artela",
+        "contributors": ["DTEAM"]
+    },
+    {
+        "contribution-title": "Installation Guide",
+        "contribution-link": "https://dteam.tech/services/testnet/installation-guide/artela",
+        "contributors": ["DTEAM"]
     }
-  ]
+]
