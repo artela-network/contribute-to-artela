@@ -1,0 +1,41 @@
+  {
+        "contribution-title": "RPCs",
+        "contribution-link": "https://rpc-artela-testnet.gvalidators.info",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "APIs",
+        "contribution-link": "https://api-artela-testnet.gvalidators.info",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "GRPCs",
+        "contribution-link": "https://grpc-artela-testnet.gvalidators.info",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "EVM Endpoints / JSON RPCs",
+        "contribution-link": "https://jsonrpc-artela-testnet.gvalidators.info",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "Explorers",
+        "contribution-link": "https://explorer.gvalidators.info/",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "Snapshot",
+        "contribution-link": "https://gvalidators.info/snapshot/artela",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "Faucet",
+        "contribution-link": "https://artela-faucet.gvalidators.info/",
+        "contributors": ["GentlemenValidators"]
+    },
+    {
+        "contribution-title": "Installation Guide",
+        "contribution-link": "https://wiki.gvalidators.info/testnets/Artela/artela_install",
+        "contributors": ["GentlemenValidators"]
+    },
+]
