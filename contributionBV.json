@@ -1,0 +1,47 @@
+
+ {
+        "contribution-title": "Installation Guide",
+        "contribution-link": "https://main.bonynode.online/services/testnet/artela/installation/",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "ValidatorNode",
+        "contribution-link": "https://explorer.bonynode.online/artela/staking/artvaloper1zlxdl376qfele4hgncdyd6y7a8du9wqqxxckv0",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "Explorers",
+        "contribution-link": "https://explorer.bonynode.online/artela/",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "RPCs",
+        "contribution-link": "https://artela-testnet-rpc.bonynode.online",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "APIs",
+        "contribution-link": "https://artela-testnet-api.bonynode.online",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "GRPCs",
+        "contribution-link": "https://artela-testnet-grpc.bonynode.online",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "EVM Endpoints / JSON RPCs",
+        "contribution-link": "https://artela-testnet-jsonrpc.bonynode.online/",
+        "contributors": ["GBonyNodeValidators"]
+    },
+    {
+        "contribution-title": "Snapshot",
+        "contribution-link": "https://main.bonynode.online/services/testnet/artela/",
+        "contributors": ["BonyNodeValidators"]
+    },
+    {
+        "contribution-title": "RPC Scanner",
+        "contribution-link": "https://main.bonynode.online/services/testnet/artela/public-rpc/",
+        "contributors": ["BonyNodeValidators"]
+    },
+]
