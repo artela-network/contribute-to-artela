@@ -1,0 +1,40 @@
+[
+    {
+      "contribution-title": "Explorer",
+      "project-repo": "http://135.181.28.135:3000/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "RPCs",
+      "project-repo": "https://artela-rpc.froopyland.online/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "APIs",
+      "project-repo": "https://artela-api.froopyland.online/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "json-RPC EVM CHAiN",
+      "project-repo": "https://artela-chain.froopyland.online/",
+      "chain-id": "11822"
+      "contributors": ["Enzifiri"]
+    }
+  ]
+
+[
+    {
+      "contribution-title": "Install Guide",
+      "project-repo": "https://artela-wiki.gitbook.io/artela-wiki/",
+      "contributors": ["Enzifiri"]
+    }
+  ]
