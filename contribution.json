@@ -3,5 +3,60 @@
       "contribution-title": "Add a automation usecase to Aspect examples",
       "project-repo": "https://github.com/artela-network/example",
       "contributors": ["xxx"]
+    },
+    {
+        "contribution-title": "RPCs",
+        "contribution-link": "https://artela-testnet.rpc.l0vd.com/",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "APIs",
+        "contribution-link": "https://artela-testnet.api.l0vd.com/",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "GRPCs",
+        "contribution-link": "artela-testnet.grpc.l0vd.com:443",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "EVM Endpoints / JSON RPCs",
+        "contribution-link": "https://artela-testnet-evm.rpc.l0vd.com:443",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Seeds",
+        "contribution-link": "0419709e33aea50603f3abdb42a35a43b48fbe15@artela-testnet.seed.l0vd.com:10856",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Peers",
+        "contribution-link": "44d8b040b3be3f9c6491ba8ad1dafb726a01f1a1@artela-testnet.peers.l0vd.com:19656",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Explorers",
+        "contribution-link": "https://explorers.l0vd.com/artela-testnet",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Snapshot",
+        "contribution-link": "https://chain-services.l0vd.com/testnets/artela/snapshot",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "State Sync",
+        "contribution-link": "https://chain-services.l0vd.com/testnets/artela/state-sync",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Installation Guide",
+        "contribution-link": "https://chain-services.l0vd.com/testnets/artela/installation-guide",
+        "contributors": ["L0vd"]
+    },
+    {
+        "contribution-title": "Monitoring solution",
+        "contribution-link": "https://chain-services.l0vd.com/testnets/artela/monitoring",
+        "contributors": ["L0vd"]
     }
   ]
