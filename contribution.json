@@ -1,7 +1,84 @@
 [
+   
+ {
+        "contribution-title": "Validator Node",
+        "contribution-link": "https://testnet.itrocket.net/artela/staking/artvaloper1jh5y4l769l5668hdlrzx4zjmdskgnhq5txuev7",
+        "contributors": ["ITRocket"]
+    },
     {
-      "contribution-title": "Add a automation usecase to Aspect examples",
-      "project-repo": "https://github.com/artela-network/example",
-      "contributors": ["xxx"]
+        "contribution-title": "Decentralization Analytics / Validators, RPC, All nodes",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/decentralization/",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Governance Bot",
+        "contribution-link": "https://t.me/itrocket_testnet_proposal_bot",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Peer scanner",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/#peer",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "RPC Scanner",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/public-rpc/",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Explorer",
+        "contribution-link": "https://testnet.itrocket.net/artela/staking",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Installation Guide",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/installation/",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Cheat Sheet",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/cheat-sheet/",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Upgrade Guides",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/upgrade/",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "Snapshot",
+        "contribution-link": "https://itrocket.net/services/testnet/artela/#snap",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "RPC Endpoint",
+        "contribution-link": "https://artela-testnet-rpc.itrocket.net:443",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "API Endpoint",
+        "contribution-link": "https://artela-testnet-api.itrocket.net:443",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "EVM Endpoints / JSON RPCs",
+        "contribution-link": "https://artela-testnet-jsonrpc.itrocket.net:443",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "gRPC",
+        "contribution-link": "artela-testnet-grpc.itrocket.net:443",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "PEER",
+        "contribution-link": "5c9b1bc492aad27a0197a6d3ea3ec9296504e6fd@artela-testnet-peer.itrocket.net:30656",
+        "contributors": ["ITRocket"]
+    },
+    {
+        "contribution-title": "SEED",
+        "contribution-link": "8d0c626443a970034dc12df960ae1b1012ccd96a@artela-testnet-seed.itrocket.net:30656",
+        "contributors": ["ITRocket"]
     }
+]
   ]
