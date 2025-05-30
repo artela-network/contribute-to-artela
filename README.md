@@ -21,7 +21,7 @@ This repository serves as a resource for builders interested in contributing to 
 
 This project follows the [all-contributors](https://allcontributors.org/docs/en/overview) specification. Please read [Code of Conduct](https://github.com/artela-network/contribute-to-artela/blob/main/docs/code-of-conduct.md). On our [builder page](https://developers.artela.network/). you’ll find a number of ways to contribute. Contributions of any kind are welcome!
 
-### [1. Submit an issue](https://github.com/artela-network/contribute-to-artela#1-submit-an-issue)
+### [1. Submit an issue](https://github.com/artela-network/contribute-to-artela/issues/new/choose)
 
 To create a new issue, you can: 
 
@@ -34,14 +34,14 @@ To get involved in an existing issue, you can:
 
 More information on the issue creation process, and expectations around creating issues can be [found here](https://github.com/artela-network/contribute-to-artela/blob/main/docs/github-issue-triage-process.md).
 
-### [2. Make a PR](https://github.com/artela-network/contribute-to-artela#2-make-a-pr)
+### [2. Make a PR](https://github.com/artela-network/contribute-to-artela/compare/dev...main)
 
 1. Fork the contribute-to-artela repo. If you're not sure, here's how to [fork the repo](https://help.github.com/en/articles/fork-a-repo).
 2. Include your contribution, referencing the issue it resolves (see [linking a pull request to an issue using a keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)). Provide a link to the PR raised in another repository.
 3. Extend the `contributions.json` file by following the format used for other projects already listed.
 4. After your changes are committed to your GitHub fork, submit a pull request (PR) to the `dev` branch of the repo
 
-### 3. [Wait for review](https://github.com/artela-network/contribute-to-artela#3-wait-for-review)
+### [3. Wait for review](https://github.com/artela-network/contribute-to-artela#3-wait-for-review)
 
 Acceptable PRs will be approved & merged into the `dev` branch
 
